@@ -1,0 +1,34 @@
+ENGC Pistol April 2007
+Match Date: 4/1/2007
+
+Place Name              USPSA  Class Division     PF Lady For Age         Points   Stg %
+   1 Anderson, Ken      TY47278  B   Open        Major N   N              446.0838 100.00%
+   2 Barg, Larry        A29194   M   Open        Major N   N              429.8470  96.36%
+   3 Davies, Chris      A12924   B   Open        Major N   N              391.3822  87.74%
+   4 Groff, Justin      TY35249  B   Open        Major N   N              375.9935  84.29%
+   5 Thorne, Rob        A49739   B   Limited     Major N   N              334.7114  75.03%
+   6 Kirchoff, Dennis   A56480   U   Limited     Minor N   N              328.0308  73.54%
+   7 Victor, John       TY7587   B   Limited 10  Major N   N              310.4052  69.58%
+   8 Schaer, Tim        TY35247  B   Limited     Major N   N              301.7782  67.65%
+   9 Wagner, George     TY18312  C   Production  Minor N   N Senior       295.8846  66.33%
+  10 Blair, Kirk        TY40405  B   Limited 10  Major N   N              294.3641  65.99%
+  11 Simandl, Rich      TY44974  C   Limited     Major N   N              292.4742  65.56%
+  12 Howard, Tom        A57207   U   Production  Minor N   N              291.2232  65.28%
+  13 Nielsen, Bill      A54622   C   Limited 10  Major N   N              285.6312  64.03%
+  14 Marx, Dick         A19646   B   Limited     Major N   N              278.8605  62.51%
+  15 Rogers, Dale       L2528    C   Open        Major N   N Senior       273.9726  61.42%
+  16 Kunkle, John       A55828   C   Limited     Major N   N              268.0720  60.09%
+  17 Mullins, Bob       A49989   C   Open        Major N   N              264.8153  59.36%
+  18 Huber, Ramon       A47135   U   Limited     Major N   N              263.3223  59.03%
+  19 Nielson, Les       A49306   C   Revolver    Major N   N              252.3002  56.56%
+  20 Davis, Doug        A11475   C   Limited 10  Major N   N Super Senior 243.0228  54.48%
+  21 Zeeb, Chris        A55214   U   Revolver    Major N   N              227.7657  51.06%
+  22 Mark, John         TY44063  D   Limited     Major N   N Super Senior 215.5201  48.31%
+  23 Suiter, Bill       A56522   D   Limited 10  Major N   N              207.7603  46.57%
+  24 Tubbs, Mike                 U   Limited     Major N   N              205.5663  46.08%
+  25 Pint, Joel                  U   Limited 10  Major N   N              204.5376  45.85%
+  26 Harbin, Warren     A58624   U   Production  Minor N   N Senior       176.3381  39.53%
+  27 Begley, Terry      TY48539  C   Production  Minor N   N              174.7984  39.19%
+  28 McSheehy, Sean     A44616   D   Revolver    Major N   N              164.2979  36.83%
+  29 Nielsen, Brett              U   Production  Minor N   N Junior       160.0268  35.87%
+  30 Young, Ken         A50574   D   Limited 10  Major N   N              117.6250  26.37%

@@ -1,0 +1,190 @@
+ENGC Pistol February 2006
+Match Date: 2/5/2006
+
+Place Name              USPSA  Class Division     PF Lady For Age         Points   Stg %
+   1 Sherman, Roger              GM  Limited     Major N   N              440.0000 100.00%
+   2 Park, Joel                  B   Limited     Major N   N              349.0469  79.33%
+   3 Davis, Doug                 C   Limited     Minor N   N Super Senior 282.4922  64.20%
+   4 Simandl, Rich               C   Limited     Major N   N              278.5120  63.30%
+   5 Nielson, Les                U   Limited     Minor N   N              264.4456  60.10%
+   6 Shotkoski, Tom              C   Limited     Major N   N              260.0165  59.09%
+   7 Meisenheimer, Mike          D   Limited     Major N   N              248.1137  56.39%
+   8 Meisenheimer, Andr          D   Limited     Minor N   N               63.9785  14.54%
+
+
+Stage: 1  Big Range
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Sherman, Roger         28   GM  Limited     118  10  14.87   7.2629 125.0000 100.00%
+    2 Park, Joel             18   B   Limited     120   0  19.30   6.2176 107.0096  85.61%
+    3 Meisenheimer, Mike      6   D   Limited     117   0  23.48   4.9830  85.7612  68.61%
+    4 Davis, Doug            19   C   Limited      97   0  20.24   4.7925  82.4825  65.99%
+    5 Shotkoski, Tom          2   C   Limited     111  10  22.06   4.5784  78.7977  63.04%
+    6 Nielson, Les           20   U   Limited     113   0  25.33   4.4611  76.7789  61.42%
+    7 Simandl, Rich           8   C   Limited     104  20  21.69   3.8728  66.6538  53.32%
+    8 Meisenheimer, Andrea    5   D   Limited      84  30  86.25   0.6261  10.7757   8.62%
+Stage: 2  Stage Two
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Sherman, Roger         28   GM  Limited     107   0  13.57   7.8850 110.0000 100.00%
+    2 Park, Joel             18   B   Limited     108   0  17.76   6.0811  84.8346  77.12%
+    3 Simandl, Rich           8   C   Limited     108   0  18.86   5.7264  79.8864  72.62%
+    4 Davis, Doug            19   C   Limited      92   0  20.26   4.5410  63.3494  57.59%
+    5 Nielson, Les           20   U   Limited     102  10  21.58   4.2632  59.4739  54.07%
+    6 Shotkoski, Tom          2   C   Limited     105   0  29.03   3.6169  50.4577  45.87%
+    7 Meisenheimer, Mike      6   D   Limited      98  10  34.65   2.5397  35.4302  32.21%
+    8 Meisenheimer, Andrea    5   D   Limited     104   0  86.01   1.2092  16.8690  15.34%
+Stage: 3  Stage Three
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Sherman, Roger         28   GM  Limited     135   0  17.69   7.6314 145.0000 100.00%
+    2 Park, Joel             18   B   Limited     117  10  19.55   5.4731 103.9913  71.72%
+    3 Simandl, Rich           8   C   Limited     129   0  25.57   5.0450  95.8572  66.11%
+    4 Davis, Doug            19   C   Limited     113   0  23.75   4.7579  90.4022  62.35%
+    5 Shotkoski, Tom          2   C   Limited     140   0  30.42   4.6022  87.4439  60.31%
+    6 Meisenheimer, Mike      6   D   Limited     133   0  29.21   4.5532  86.5128  59.66%
+    7 Nielson, Les           20   U   Limited     131   0  28.86   4.5392  86.2468  59.48%
+    8 Meisenheimer, Andrea    5   D   Limited     111   0  70.80   1.5678  29.7889  20.54%
+Stage: 4  Mini-Mart
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Sherman, Roger         28   GM  Limited      58   0   5.92   9.7973  60.0000 100.00%
+    2 Park, Joel             18   B   Limited      55   0   6.33   8.6888  53.2114  88.69%
+    3 Davis, Doug            19   C   Limited      46   0   6.09   7.5534  46.2581  77.10%
+    4 Shotkoski, Tom          2   C   Limited      58   0   8.20   7.0732  43.3172  72.20%
+    5 Nielson, Les           20   U   Limited      60   0   8.76   6.8493  41.9460  69.91%
+    6 Meisenheimer, Mike      6   D   Limited      58   0   8.79   6.5984  40.4095  67.35%
+    7 Simandl, Rich           8   C   Limited      47   0   7.97   5.8971  36.1146  60.19%
+    8 Meisenheimer, Andrea    5   D   Limited      41  20  19.65   1.0687   6.5449  10.91%
+
+
+Place Name              USPSA  Class Division     PF Lady For Age         Points   Stg %
+   1 Nielson, Bill               C   Limited 10  Major N   N              415.5941 100.00%
+   2 Huber, Ramon                C   Limited 10  Major N   N              315.7313  75.97%
+   3 Young, Ken                  D   Limited 10  Major N   N              305.5790  73.53%
+   4 Suiter, Bill                U   Limited 10  Major N   N              266.3128  64.08%
+   5 Mark, John                  D   Limited 10  Major N   N Super Senior 264.4559  63.63%
+
+Stage: 1  Big Range
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Huber, Ramon           17   C   Limited 10  112   0  24.51   4.5696 125.0000 100.00%
+    2 Nielson, Bill          12   C   Limited 10  114   0  31.00   3.6774 100.5941  80.48%
+    3 Suiter, Bill           24   U   Limited 10  116   0  33.54   3.4586  94.6089  75.69%
+    4 Young, Ken              9   D   Limited 10  113   0  41.85   2.7001  73.8604  59.09%
+    5 Mark, John              7   D   Limited 10  108   0  51.98   2.0777  56.8348  45.47%
+Stage: 2  Stage Two
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Nielson, Bill          12   C   Limited 10  110   0  27.34   4.0234 110.0000 100.00%
+    2 Huber, Ramon           17   C   Limited 10  106   0  30.23   3.5065  95.8679  87.15%
+    3 Mark, John              7   D   Limited 10  105   0  39.55   2.6549  72.5851  65.99%
+    4 Young, Ken              9   D   Limited 10  100   0  39.78   2.5138  68.7274  62.48%
+    5 Suiter, Bill           24   U   Limited 10  107   0  48.50   2.2062  60.3176  54.83%
+Stage: 3  Stage Three
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Nielson, Bill          12   C   Limited 10  136  10  29.77   4.2324 145.0000 100.00%
+    2 Young, Ken              9   D   Limited 10  132   0  36.13   3.6535 125.1672  86.32%
+    3 Mark, John              7   D   Limited 10  139   0  48.31   2.8773  98.5749  67.98%
+    4 Suiter, Bill           24   U   Limited 10  133  10  51.79   2.3750  81.3664  56.11%
+    5 Huber, Ramon           17   C   Limited 10  117  20  77.12   1.2578  43.0916  29.72%
+Stage: 4  Mini-Mart
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Nielson, Bill          12   C   Limited 10   58   0   7.55   7.6821  60.0000 100.00%
+    2 Huber, Ramon           17   C   Limited 10   58   0   8.75   6.6286  51.7718  86.29%
+    3 Young, Ken              9   D   Limited 10   57   0  11.77   4.8428  37.8240  63.04%
+    4 Mark, John              7   D   Limited 10   57   0  12.21   4.6683  36.4611  60.77%
+    5 Suiter, Bill           24   U   Limited 10   59   0  15.35   3.8436  30.0199  50.03%
+
+
+Place Name              USPSA  Class Division     PF Lady For Age         Points   Stg %
+   1 Griffith, Guy               B   Open        Major N   N              402.8151 100.00%
+   2 Andersen, Ken               B   Open        Major N   N              387.3231  96.15%
+   3 Griffith, Austin            B   Open        Major N   N Junior       380.7765  94.53%
+   4 Davies, Chris               B   Open        Major N   N              360.6089  89.52%
+   5 Marx, Dick                  B   Open        Major N   N              344.6733  85.57%
+   6 Rogers, Dale                C   Open        Major N   N              317.9045  78.92%
+   7 Mullins, Bob                U   Open        Major N   N              216.3281  53.70%
+
+Stage: 1  Big Range
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Griffith, Austin       15   B   Open        118   0  14.45   8.1661 125.0000 100.00%
+    2 Griffith, Guy          16   B   Open        114   0  14.10   8.0851 123.7601  99.01%
+    3 Davies, Chris          13   B   Open        116   0  15.65   7.4121 113.4584  90.77%
+    4 Rogers, Dale            3   C   Open        114   0  17.22   6.6202 101.3366  81.07%
+    5 Marx, Dick             21   B   Open        114  10  20.84   4.9904  76.3890  61.11%
+    6 Andersen, Ken          23   B   Open        114  10  21.32   4.8780  74.6684  59.73%
+    7 Mullins, Bob           14   U   Open        114  10  30.74   3.3832  51.7873  41.43%
+Stage: 2  Stage Two
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Andersen, Ken          23   B   Open        107   0  12.24   8.7418 110.0000 100.00%
+    2 Marx, Dick             21   B   Open        105   0  15.15   6.9307  87.2105  79.28%
+    3 Davies, Chris          13   B   Open        104   0  15.04   6.9149  87.0117  79.10%
+    4 Griffith, Guy          16   B   Open        102   0  14.76   6.9106  86.9576  79.05%
+    5 Griffith, Austin       15   B   Open         99   0  15.59   6.3502  79.9060  72.64%
+    6 Rogers, Dale            3   C   Open        102   0  19.15   5.3264  67.0233  60.93%
+    7 Mullins, Bob           14   U   Open        108   0  22.39   4.8236  60.6964  55.18%
+Stage: 3  Stage Three
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Andersen, Ken          23   B   Open        130   0  17.65   7.3654 145.0000 100.00%
+    2 Griffith, Guy          16   B   Open        124   0  18.48   6.7100 132.0974  91.10%
+    3 Griffith, Austin       15   B   Open        127  10  17.67   6.6214 130.3531  89.90%
+    4 Marx, Dick             21   B   Open        133   0  21.43   6.2063 122.1812  84.26%
+    5 Davies, Chris          13   B   Open        127   0  21.02   6.0419 118.9447  82.03%
+    6 Rogers, Dale            3   C   Open        123   0  22.40   5.4911 108.1013  74.55%
+    7 Mullins, Bob           14   U   Open        131  10  29.25   4.1368  81.4397  56.17%
+Stage: 4  Mini-Mart
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Griffith, Guy          16   B   Open         58   0   6.60   8.7879  60.0000 100.00%
+    2 Marx, Dick             21   B   Open         59   0   6.84   8.6257  58.8926  98.15%
+    3 Andersen, Ken          23   B   Open         57   0   6.75   8.4444  57.6547  96.09%
+    4 Griffith, Austin       15   B   Open         59   0   8.85   6.6667  45.5174  75.86%
+    5 Rogers, Dale            3   C   Open         59   0   9.72   6.0700  41.4433  69.07%
+    6 Davies, Chris          13   B   Open         54   0   8.95   6.0335  41.1941  68.66%
+    7 Mullins, Bob           14   U   Open         57   0  17.37   3.2815  22.4047  37.34%
+
+
+Place Name              USPSA  Class Division     PF Lady For Age         Points   Stg %
+   1 Zeeb, Chris                 U   Production  Minor N   N              440.0000 100.00%
+   2 Mitchell, Travis            C   Production  Minor N   N              314.2230  71.41%
+   3 Begley, Terry               C   Production  Minor N   N              291.6504  66.28%
+   4 Middlemas, Dave             C   Production  Minor N   N              261.3152  59.39%
+   5 Terrell, Roger              U   Production  Minor N   N Super Senior 233.1420  52.99%
+   6 Gant, Mike                  U   Production  Minor N   N              219.7851  49.95%
+   7 Perello, Yamil              U   Production  Minor N   N              175.3342  39.85%
+   8 Fricke, Skip                U   Production  Minor N   N              116.9580  26.58%
+
+Stage: 1  Big Range
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Zeeb, Chris            11   U   Production  101   0  18.53   5.4506 125.0000 100.00%
+    2 Mitchell, Travis       26   C   Production   99   0  23.81   4.1579  95.3542  76.28%
+    3 Begley, Terry           1   C   Production  113   0  28.65   3.9442  90.4533  72.36%
+    4 Gant, Mike             22   U   Production   83  20  24.12   2.6119  59.8994  47.92%
+    5 Middlemas, Dave         4   C   Production   91  20  27.42   2.5894  59.3834  47.51%
+    6 Terrell, Roger         10   U   Production   87  20  26.82   2.4981  57.2896  45.83%
+    7 Perello, Yamil         27   U   Production   87  20  32.58   2.0565  47.1622  37.73%
+    8 Fricke, Skip           25   U   Production   96  10  61.76   1.3925  31.9346  25.55%
+Stage: 2  Stage Two
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Zeeb, Chris            11   U   Production   86   0  18.93   4.5431 110.0000 100.00%
+    2 Gant, Mike             22   U   Production  100   0  27.24   3.6711  88.8867  80.81%
+    3 Mitchell, Travis       26   C   Production   96   0  26.53   3.6185  87.6131  79.65%
+    4 Begley, Terry           1   C   Production  106   0  35.86   2.9559  71.5699  65.06%
+    5 Middlemas, Dave         4   C   Production   88  20  23.90   2.8452  68.8895  62.63%
+    6 Terrell, Roger         10   U   Production   85  30  20.92   2.6291  63.6572  57.87%
+    7 Perello, Yamil         27   U   Production   76  20  45.86   1.2211  29.5659  26.88%
+    8 Fricke, Skip           25   U   Production   91  10  71.74   1.1291  27.3384  24.85%
+Stage: 3  Stage Three
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Zeeb, Chris            11   U   Production  113   0  20.45   5.5257 145.0000 100.00%
+    2 Mitchell, Travis       26   C   Production  123   0  34.76   3.5386  92.8565  64.04%
+    3 Middlemas, Dave         4   C   Production  110  10  28.36   3.5261  92.5285  63.81%
+    4 Begley, Terry           1   C   Production  128  10  34.42   3.4282  89.9595  62.04%
+    5 Terrell, Roger         10   U   Production  106  30  27.30   2.7839  73.0524  50.38%
+    6 Perello, Yamil         27   U   Production   94  10  34.49   2.4355  63.9100  44.08%
+    7 Fricke, Skip           25   U   Production  115  20  57.23   1.6600  43.5601  30.04%
+    8 Gant, Mike             22   U   Production   82  70  25.85   0.4642  12.1811   8.40%
+Stage: 4  Mini-Mart
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Zeeb, Chris            11   U   Production   58   0   5.97   9.7152  60.0000 100.00%
+    2 Gant, Mike             22   U   Production   58   0   6.09   9.5238  58.8179  98.03%
+    3 Middlemas, Dave         4   C   Production   51  10   6.25   6.5600  40.5138  67.52%
+    4 Begley, Terry           1   C   Production   58   0   9.03   6.4230  39.6677  66.11%
+    5 Terrell, Roger         10   U   Production   54   0   8.52   6.3380  39.1428  65.24%
+    6 Mitchell, Travis       26   C   Production   60   0   9.65   6.2176  38.3992  64.00%
+    7 Perello, Yamil         27   U   Production   50   0   8.90   5.6180  34.6961  57.83%
+    8 Fricke, Skip           25   U   Production   49  20  12.68   2.2871  14.1249  23.54%

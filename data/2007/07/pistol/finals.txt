@@ -1,0 +1,33 @@
+ENGC Pistol July 2007
+Match Date: 7/1/2007
+
+Place Name              USPSA  Class Division     PF Lady For Age         Points   Stg %
+   1 Andersen, Ken      TY47278  B   Open        Major N   N              584.3425 100.00%
+   2 Davies, Chris      A12924   B   Open        Major N   N              536.6799  91.84%
+   3 Abrahams, William  L2900    B   Open        Major N   N              510.8978  87.43%
+   4 Van Ent, Dale      FY43517  B   Open        Major N   N              483.4131  82.73%
+   5 Park, Joel         A50841   U   Limited     Minor N   N              428.9721  73.41%
+   6 Thorne, Rob        A49739   B   Limited     Major N   N              418.2895  71.58%
+   7 Marx, Dick         A19646   B   Open        Major N   N              408.8270  69.96%
+   8 Groff, Justin      TY35249  B   Open        Major N   N              407.7908  69.79%
+   9 Howard, Tom        A57207   B   Production  Minor N   N              405.5483  69.40%
+  10 Wagner, George     TY18312  B   Limited     Major N   N Senior       390.8631  66.89%
+  11 Blair, Kirk        TY40405  B   Limited     Major N   N              384.0712  65.73%
+  12 Knight, Shawn      A56661   B   Production  Minor N   N              370.8253  63.46%
+  13 Rogers, Dale       L2528    C   Open        Major N   N Senior       352.5714  60.34%
+  14 Simandl, Rich      TY44974  C   Limited     Major N   N              326.5435  55.88%
+  15 Nielson, Les       A49306   U   Revolver    Major N   N              311.0209  53.23%
+  16 Mullins, Bob       A49989   C   Open        Major N   N              306.6161  52.47%
+  17 Trilk, Bill        A56459   C   Limited     Major N   N              282.6090  48.36%
+  18 Pershing, John     TY56098  C   Production  Minor N   N              270.5500  46.30%
+  19 Pint, Joel                  U   Limited 10  Major N   N              268.8870  46.02%
+  20 Huber, Ramon       A47135   C   Limited     Major N   N              267.7735  45.82%
+  21 Hanna, Bill                 D   Limited     Major N   N              263.1974  45.04%
+  22 Nielsen, Bill      A54622   B   Limited 10  Major N   N              259.0200  44.33%
+  23 Nielsen, Brett     A59067   D   Production  Minor N   N Junior       252.4510  43.20%
+  24 Begley, Terry      TY48539  C   Production  Minor N   N              240.8500  41.22%
+  25 Suiter, Bill       A56522   C   Limited 10  Minor N   N              229.5057  39.28%
+  26 McSheehy, Sean     A44616   C   Revolver    Major N   N              186.5278  31.92%
+  27 Hill, Kevin                 U   Production  Minor N   N              167.2908  28.63%
+  28 Martin, Gayle               U   Production  Minor N   N               56.7411   9.71%
+

@@ -1,0 +1,59 @@
+ENGC - Pistol Oct 2011
+Match Date: 10/2/2011
+Combined divisions - These are NOT official results.
+
+Place Name              USPSA  Class Division     PF Lady Mil Law For Age         Points   Stg %
+   1 Griffith, Austin   FY53045  M   Open        Major N   N   N   N              473.8159 100.00%
+   2 Andersen, Ken      FY47278  A   Open        Major N   N   N   N              438.2268  92.49%
+   3 Wagner, George     TY18312  B   Open        Major N   N   N   N Senior       410.2972  86.59%
+   4 Davies, Chris      TY12924  A   Open        Major N   N   N   N              390.6655  82.45%
+   5 Engel, Tom         TY61813  B   Limited     Major N   N   N   N              382.6030  80.75%
+   6 Nieman, Stacy      A68875   U   Production  Minor N   N   N   N              380.2648  80.26%
+   7 Smith, Kevin       A63793   C   Limited     Major N   N   N   N Senior       352.6159  74.42%
+   8 Griffith, Guy      FY48607  C   Production  Minor N   N   N   N              341.2645  72.02%
+   9 Marx, Dick         A19646   B   Open        Major N   N   N   N Super Senior 334.2980  70.55%
+  10 Blair, Kirk        TY40405  C   Limited     Major N   N   N   N              330.7634  69.81%
+  11 Marketto, Drew     A72575   U   Limited     Major N   N   N   N              330.1540  69.68%
+  12 Howard, Thomas     L3232    M   Production  Minor N   N   N   N              312.5694  65.97%
+  13 Awe, Jeffrey       A42765   A   Open        Major N   N   N   N              298.5481  63.01%
+  14 McSheehy, Sean     A44616   C   Limited     Major N   N   N   N              287.4465  60.67%
+  15 Potthoff, Roger    A70614   U   Production  Minor N   N   N   N              286.6385  60.50%
+  16 Lierman, Matt      A69809   U   Production  Minor N   N   N   N              284.2286  59.99%
+  17 Simandl, Rich      TY44974  B   Limited 10  Major N   N   N   N              282.6056  59.64%
+  18 Hanna, Bill        FY54788  C   Limited     Major N   N   N   N Super Senior 281.5399  59.42%
+  19 Ludwig, Joel       A68981   C   Limited     Major N   N   N   N              274.8202  58.00%
+  20 Huber, Ramon       A47135   C   Limited 10  Major N   N   N   N              274.7854  57.99%
+  21 Acome, Tony        A66877   C   Limited     Major N   N   N   N              264.8619  55.90%
+  22 Davis, Doug        TY11475  C   Limited 10  Major N   N   N   N Super Senior 261.1276  55.11%
+  23 Nanfito, Brett     A60635   C   Production  Minor N   N   N   N              252.8405  53.36%
+  24 Gewecke, Sean      A68385   D   Production  Minor N   N   N   N              241.5204  50.97%
+  25 Mierau, Jeb        Pen      U   Production  Minor N   N   N   N              237.1919  50.06%
+  26 Smith, Bryan       A71115   U   Single Stack  Major N   N   N   N              232.1043  48.99%
+  27 Shamblen, Grant    Pen      U   Open        Major N   N   N   N              218.8104  46.18%
+  28 Young, Ken         A50574   C   Limited     Major N   N   N   N              218.7331  46.16%
+  29 Menke, Derek       TY62298  C   Limited     Major N   N   N   N              192.3356  40.59%
+  30 Hollins, Greg      A71916   U   Production  Minor N   N   N   N              176.4501  37.24%
+  31 Howard, Julie      TY67061  D   Production  Minor Y   N   N   N              175.1434  36.96%
+  32 Safris, Janet      A72010   D   Limited     Major Y   N   N   N              165.7729  34.99%
+  33 Mantonya, Kurt     A71948   U   Production  Minor N   N   N   N              161.9501  34.18%
+  34 Begley, Terry      TY48539  C   Production  Minor N   N   N   N              161.6810  34.12%
+  35 Engel, Sandy       A66566   D   Limited     Minor N   N   N   N              160.6601  33.91%
+  36 Nielsen, Steve              U   Limited     Major N   N   N   N Senior       123.4731  26.06%
+  37 Cherry, Mike       Pen      U   Limited     Major N   N   N   N              122.5432  25.86%
+  38 Lorenzen, Wayne    A62890   D   Production  Minor N   N   N   N              109.8621  23.19%
+  39 Hollins, Harold    A71896   U   Production  Minor N   N   N   N              107.1583  22.62%
+  40 Vantluka, Eugene   TY13544  U   Open        Major N   N   N   N              101.6207  21.45%
+  41 Argo, Trina        Pen      U   Limited     Major N   N   N   N               89.5564  18.90%
+  42 Budin, Tim         Pen      U   Limited     Major N   N   N   N               84.6444  17.86%
+  43 Anderson, Rachael  Pen      U   Open        Minor Y   N   N   N Junior        63.2332  13.35%
+  44 Gewecke, Amy       Pen      U   Production  Minor Y   N   N   N               51.5339  10.88%
+  45 Budin, Elizabeth   Pen      U   Limited     Major Y   N   N   N Junior        18.3172   3.87%
+DQed Gregg, Owen        A72011   U   Production  Minor N   N   N   N                0.0000   0.00%
+ 
+Combined divisions - These are NOT official results.
+ 
+Sometimes the order of finish changes from the 'By Division' report and
+the 'Combined' report.  This is beacuse a different Stage High Hit Factor 
+was used to calculate the stage points.
+ 
+Printed: 10/02/2011 3:08 PM

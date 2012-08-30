@@ -1,0 +1,192 @@
+ENGC Pistol July 2006
+Match Date: 7/2/2006
+
+Place Name              Class Division     PF Lady For Age         Points   Stg %
+   1 Griffith, Austin   B   Open        Major N   N Junior       528.0545 100.00%
+   2 Griffith, Guy      B   Open        Major N   N              502.3987  95.14%
+   3 Awe, Jeffrey       B   Open        Major N   N              467.8673  88.60%
+   4 Marx, Dick         B   Open        Major N   N              443.8764  84.06%
+   5 Davies, Chris      B   Open        Major N   N              430.3417  81.50%
+   6 Abrahams, William  U   Open        Major N   N              250.6014  47.46%
+ 
+Stage: 1  Stage 1
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Griffith, Austin       13   B   Open        134   0  23.97   5.5903 145.0000 100.00%
+    2 Davies, Chris          18   B   Open        134   0  25.45   5.2652 136.5676  94.18%
+    3 Griffith, Guy          14   B   Open        136   0  25.94   5.2429 135.9892  93.79%
+    4 Awe, Jeffrey           28   B   Open        134  10  26.56   4.6687 121.0957  83.51%
+    5 Marx, Dick             26   B   Open        135   0  29.29   4.6091 119.5498  82.45%
+    6 Abrahams, William       9   U   Open        130  20  39.94   2.7541  71.4353  49.27%
+Stage: 2  Stage 2
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Griffith, Austin       13   B   Open        149   0  13.90  10.7194 160.0000 100.00%
+    2 Griffith, Guy          14   B   Open        147   0  17.53   8.3856 125.1652  78.23%
+    3 Awe, Jeffrey           28   B   Open        151   0  18.76   8.0490 120.1411  75.09%
+    4 Marx, Dick             26   B   Open        146   0  18.64   7.8326 116.9110  73.07%
+    5 Davies, Chris          18   B   Open        149   0  19.78   7.5329 112.4376  70.27%
+    6 Abrahams, William       9   U   Open        157  10  32.92   4.4654  66.6515  41.66%
+Stage: 3  Stage 3
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Griffith, Guy          14   B   Open        119   0  11.77  10.1105 125.0000 100.00%
+    2 Marx, Dick             26   B   Open        114   0  12.03   9.4763 117.1591  93.73%
+    3 Griffith, Austin       13   B   Open        107  10  10.60   9.1509 113.1361  90.51%
+    4 Davies, Chris          18   B   Open        111   0  12.26   9.0538 111.9356  89.55%
+    5 Awe, Jeffrey           28   B   Open        111   0  12.87   8.6247 106.6305  85.30%
+    6 Abrahams, William       9   U   Open        124   0  24.36   5.0903  62.9333  50.35%
+Stage: 4  Quicky II
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Awe, Jeffrey           28   B   Open        116   0  16.05   7.2274 120.0000 100.00%
+    2 Griffith, Guy          14   B   Open        113   0  16.14   7.0012 116.2443  96.87%
+    3 Griffith, Austin       13   B   Open        114   0  17.22   6.6202 109.9184  91.60%
+    4 Marx, Dick             26   B   Open        111  10  18.58   5.4360  90.2565  75.21%
+    5 Davies, Chris          18   B   Open         99  20  18.90   4.1799  69.4009  57.83%
+    6 Abrahams, William       9   U   Open        117   0  39.18   2.9862  49.5813  41.32%
+
+
+Place Name              Class Division     PF Lady For Age         Points   Stg %
+   1 Park, Joel         B   Limited     Major N   N              550.0000 100.00%
+   2 Blair, Kirk        B   Limited     Major N   N              421.7989  76.69%
+   3 Nielson, Les       U   Limited     Minor N   N              411.3241  74.79%
+   4 Simandl, Rich      C   Limited     Major N   N              368.7638  67.05%
+   5 McSheehy, Sean     D   Limited     Major N   N              320.9594  58.36%
+   6 Shotkoski, Tom     C   Limited     Major N   N              290.5697  52.83%
+   7 Davis, Doug        C   Limited     Minor N   N Super Senior 287.5994  52.29%
+   8 Meisenheimer, Mike C   Limited     Major N   N              283.9720  51.63%
+   9 Meisenheimer, Andr D   Limited     Minor Y   N Junior        80.7136  14.68%
+  10 Clark, Jim         U   Limited     Minor N   N               80.1131  14.57%
+  11 Clark, James       U   Limited     Minor N   N               35.1074   6.38%
+
+Stage: 1  Stage 1
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Park, Joel             10   B   Limited     137   0  27.74   4.9387 145.0000 100.00%
+    2 Blair, Kirk            15   B   Limited     139   0  40.24   3.4543 101.4181  69.94%
+    3 Nielson, Les           12   U   Limited     133   0  39.69   3.3510  98.3852  67.85%
+    4 Meisenheimer, Mike      5   C   Limited     130  10  37.44   3.2051  94.1016  64.90%
+    5 Simandl, Rich          27   C   Limited     127  10  39.09   2.9931  87.8773  60.61%
+    6 McSheehy, Sean         22   D   Limited     120  40  36.22   2.2087  64.8473  44.72%
+    7 Davis, Doug            19   C   Limited     113  30  43.46   1.9098  56.0716  38.67%
+    8 Shotkoski, Tom          3   C   Limited     129  20  72.72   1.4989  44.0076  30.35%
+    9 Meisenheimer, Andrea    4   D   Limited     106  30  68.77   1.1051  32.4457  22.38%
+   10 Clark, Jim             20   U   Limited     101  90  90.12   0.1221   3.5849   2.47%
+   11 Clark, James           21   U   Limited      93  90  79.34   0.0378   1.1098   0.77%
+Stage: 2  Stage 2
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Park, Joel             10   B   Limited     151   0  18.96   7.9641 160.0000 100.00%
+    2 Blair, Kirk            15   B   Limited     157   0  22.31   7.0372 141.3784  88.36%
+    3 Shotkoski, Tom          3   C   Limited     157   0  25.48   6.1617 123.7895  77.37%
+    4 Davis, Doug            19   C   Limited     126   0  23.99   5.2522 105.5175  65.95%
+    5 Nielson, Les           12   U   Limited     154   0  29.73   5.1800 104.0670  65.04%
+    6 McSheehy, Sean         22   D   Limited     155   0  32.66   4.7459  95.3459  59.59%
+    7 Simandl, Rich          27   C   Limited     154   0  33.75   4.5630  91.6714  57.29%
+    8 Meisenheimer, Mike      5   C   Limited     146  10  30.58   4.4474  89.3490  55.84%
+    9 Meisenheimer, Andrea    4   D   Limited     130  10  50.29   2.3862  47.9391  29.96%
+Stage: 3  Stage 3
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Park, Joel             10   B   Limited     118   0  13.74   8.5881 125.0000 100.00%
+    2 Nielson, Les           12   U   Limited     111   0  15.86   6.9987 101.8662  81.49%
+    3 Simandl, Rich          27   C   Limited     103   0  16.07   6.4095  93.2904  74.63%
+    4 McSheehy, Sean         22   D   Limited     115   0  19.35   5.9432  86.5034  69.20%
+    5 Blair, Kirk            15   B   Limited     117   0  21.63   5.4092  78.7310  62.98%
+    6 Shotkoski, Tom          3   C   Limited     112  20  17.02   5.4054  78.6757  62.94%
+    7 Davis, Doug            19   C   Limited      85  20  15.55   4.1801  60.8415  48.67%
+    8 Meisenheimer, Mike      5   C   Limited      97  30  28.52   2.3492  34.1927  27.35%
+    9 Clark, James           21   U   Limited     101   0  43.24   2.3358  33.9976  27.20%
+   10 Clark, Jim             20   U   Limited     103  20  48.30   1.7184  25.0114  20.01%
+   11 Meisenheimer, Andrea    4   D   Limited      26 260   5.68   0.0000   0.0000   0.00%
+Stage: 4  Quicky II
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Park, Joel             10   B   Limited     107  10  16.11   6.0211 120.0000 100.00%
+    2 Nielson, Les           12   U   Limited      96   0  17.88   5.3691 107.0057  89.17%
+    3 Blair, Kirk            15   B   Limited     113   0  22.46   5.0312 100.2714  83.56%
+    4 Simandl, Rich          27   C   Limited     112   0  23.27   4.8131  95.9247  79.94%
+    5 McSheehy, Sean         22   D   Limited      96  10  23.08   3.7262  74.2628  61.89%
+    6 Meisenheimer, Mike      5   C   Limited      95  10  25.54   3.3281  66.3287  55.27%
+    7 Davis, Doug            19   C   Limited      77  10  20.49   3.2699  65.1688  54.31%
+    8 Clark, Jim             20   U   Limited      70   0  27.08   2.5849  51.5168  42.93%
+    9 Shotkoski, Tom          3   C   Limited     113   0  51.07   2.2126  44.0969  36.75%
+   10 Meisenheimer, Andrea    4   D   Limited      62  60 121.13   0.0165   0.3288   0.27%
+   11 Clark, James           21   U   Limited      55  90  30.84   0.0000   0.0000   0.00%
+
+
+Place Name              Class Division     PF Lady For Age         Points   Stg %
+   1 Nielson, Bill      C   Limited 10  Major N   N              547.0177 100.00%
+   2 Howard, Tom        U   Limited 10  Major N   N              431.6589  78.91%
+   3 Zeeb, Cody         U   Limited 10  Major N   N Junior       399.8960  73.10%
+   4 Griffith, Dave     U   Limited 10  Major N   N              343.7758  62.85%
+   5 Young, Ken         D   Limited 10  Major N   N              227.6623  41.62%
+DQed Huber, Ramon       C   Limited 10  Major N   N                0.0000   0.00%
+
+Stage: 1  Stage 1
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Nielson, Bill          24   C   Limited 10  138   0  48.58   2.8407 145.0000 100.00%
+    2 Howard, Tom            16   U   Limited 10  127  10  51.21   2.2847 116.6197  80.43%
+    3 Zeeb, Cody              7   U   Limited 10  118  50  38.29   1.7759  90.6486  62.52%
+    4 Griffith, Dave          8   U   Limited 10  123  60  53.82   1.1706  59.7518  41.21%
+    5 Young, Ken              2   D   Limited 10   34 220   9.76   0.0000   0.0000   0.00%
+Stage: 2  Stage 2
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Zeeb, Cody              7   U   Limited 10  149   0  31.96   4.6621 160.0000 100.00%
+    2 Nielson, Bill          24   C   Limited 10  150  10  30.60   4.5752 157.0177  98.14%
+    3 Howard, Tom            16   U   Limited 10  156   0  40.36   3.8652 132.6510  82.91%
+    4 Young, Ken              2   D   Limited 10  148   0  40.07   3.6935 126.7583  79.22%
+    5 Griffith, Dave          8   U   Limited 10  159  10  43.94   3.3910 116.3767  72.74%
+ DQed Huber, Ramon           29   C   Limited 10  150   0  30.16   0.0000   0.0000   0.00%
+Stage: 3  Stage 3
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Nielson, Bill          24   C   Limited 10  109   0  18.29   5.9595 125.0000 100.00%
+    2 Zeeb, Cody              7   U   Limited 10  117   0  19.76   5.9211 124.1946  99.36%
+    3 Howard, Tom            16   U   Limited 10  115   0  23.18   4.9612 104.0607  83.25%
+    4 Young, Ken              2   D   Limited 10  108   0  22.45   4.8107 100.9040  80.72%
+    5 Griffith, Dave          8   U   Limited 10  106  20  22.70   3.7885  79.4635  63.57%
+ DQed Huber, Ramon           29   C   Limited 10  117   0  23.35   0.0000   0.0000   0.00%
+Stage: 4  Quicky II
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Nielson, Bill          24   C   Limited 10  110   0  19.98   5.5055 120.0000 100.00%
+    2 Griffith, Dave          8   U   Limited 10  106   0  26.20   4.0458  88.1838  73.49%
+    3 Howard, Tom            16   U   Limited 10  110   0  30.61   3.5936  78.3275  65.27%
+    4 Zeeb, Cody              7   U   Limited 10   83  50  28.71   1.1494  25.0528  20.88%
+  Tie Young, Ken              2   D   Limited 10   54 150  22.00   0.0000   0.0000   0.00%
+ DQed Huber, Ramon           29   C   Limited 10  107   0  25.07   0.0000   0.0000   0.00%
+
+
+Place Name              Class Division     PF Lady For Age         Points   Stg %
+   1 Sherman, Roger     M   Production  Minor N   N              550.0000 100.00%
+   2 Zeeb, Chris        B   Production  Minor N   N              449.1584  81.67%
+   3 Kirchoff, Dennis   B   Production  Minor N   N              413.6343  75.21%
+   4 Begley, Terry      C   Production  Minor N   N              259.8546  47.25%
+   5 Fannan, Kevin      U   Production  Minor N   N              159.4568  28.99%
+   6 Nielsen, Brett     U   Production  Minor N   N Junior       101.7169  18.49%
+
+Stage: 1  Stage 1
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Sherman, Roger         17   M   Production  139   0  27.46   5.0619 145.0000 100.00%
+    2 Zeeb, Chris             6   B   Production  132  10  31.51   3.8718 110.9091  76.49%
+    3 Kirchoff, Dennis       11   B   Production  131   0  36.38   3.6009 103.1491  71.14%
+    4 Begley, Terry           1   C   Production  135   0  49.86   2.7076  77.5602  53.49%
+    5 Fannan, Kevin          23   U   Production  139   0  94.08   1.4775  42.3235  29.19%
+    6 Nielsen, Brett         25   U   Production  102  40  85.44   0.7257  20.7879  14.34%
+Stage: 2  Stage 2
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Sherman, Roger         17   M   Production  150   0  19.02   7.8864 160.0000 100.00%
+    2 Zeeb, Chris             6   B   Production  160   0  27.12   5.8997 119.6936  74.81%
+    3 Kirchoff, Dennis       11   B   Production  158   0  29.56   5.3451 108.4419  67.78%
+    4 Begley, Terry           1   C   Production  148   0  43.71   3.3860  68.6955  42.93%
+    5 Fannan, Kevin          23   U   Production  158  20  66.27   2.0824  42.2479  26.40%
+    6 Nielsen, Brett         25   U   Production  140  10  76.07   1.7090  34.6723  21.67%
+Stage: 3  Stage 3
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Sherman, Roger         17   M   Production  117   0  13.22   8.8502 125.0000 100.00%
+    2 Kirchoff, Dennis       11   B   Production  123   0  16.99   7.2396 102.2519  81.80%
+    3 Zeeb, Chris             6   B   Production  123   0  17.13   7.1804 101.4158  81.13%
+    4 Begley, Terry           1   C   Production  115   0  25.77   4.4626  63.0296  50.42%
+    5 Nielsen, Brett         25   U   Production   88  30  28.62   2.0266  28.6236  22.90%
+    6 Fannan, Kevin          23   U   Production  110  30  42.28   1.8921  26.7240  21.38%
+Stage: 4  Quicky II
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Sherman, Roger         17   M   Production  107  10  15.76   6.1548 120.0000 100.00%
+    2 Zeeb, Chris             6   B   Production  104   0  17.31   6.0081 117.1398  97.62%
+    3 Kirchoff, Dennis       11   B   Production  103  10  18.17   5.1183  99.7914  83.16%
+    4 Begley, Terry           1   C   Production   92  20  27.76   2.5937  50.5693  42.14%
+    5 Fannan, Kevin          23   U   Production  114   0  46.15   2.4702  48.1614  40.13%
+    6 Nielsen, Brett         25   U   Production   77  40  40.91   0.9044  17.6331  14.69%
+

@@ -1,0 +1,38 @@
+ENGC Pistol November 2009
+Match Date: 11/1/2009
+
+Place Name              USPSA  Class Division     PF Lady Mil Law For Age         Points   Stg %
+   1 Andersen, Ken      TY47278  A   Open        Major N   N   N   N              579.7475 100.00%
+   2 Howard, Thomas     TY57207  A   Production  Minor N   N   N   N              518.4110  89.42%
+   3 Hopkins, Matt      TY60095  B   Production  Minor N   N   N   N              480.5933  82.90%
+   4 Wagner, George     TY18312  B   Open        Major N   N   N   N Senior       445.8964  76.91%
+   5 Licari, Ron        A61703   C   Limited     Major N   N   N   N              434.6764  74.98%
+   6 Marx, Dick         A19646   B   Open        Major N   N   N   N Super Senior 414.2498  71.45%
+   7 Blair, Kirk        TY40405  B   Limited     Major N   N   N   N              413.7832  71.37%
+   8 Engel, Tom         A61813   C   Limited     Major N   N   N   N              395.5302  68.22%
+   9 Griffith, Guy      FY48607  C   Production  Minor N   N   N   N              356.5153  61.49%
+  10 Victor, John       TY7587   B   Production  Minor N   N   N   N              352.6347  60.83%
+  11 Knight, Shawn      L3077    B   Revolver    Major N   N   N   N              345.9512  59.67%
+  12 Nielson, Les       A49306   C   Production  Minor N   N   N   N              343.9418  59.33%
+  13 Huber, Ramon       A47135   C   Limited 10  Major N   N   N   N              303.6738  52.38%
+  14 Simandl, Rich      TY44974  C   Limited 10  Major N   N   N   N              296.6289  51.17%
+  15 Begley, Terry      TY48539  C   Production  Minor N   N   N   N              279.7811  48.26%
+  16 Smith, Kevin       A63793   D   Limited 10  Major N   N   N   N              276.2868  47.66%
+  17 Davis, Doug        A11475   C   Limited     Minor N   N   N   N Super Senior 258.7396  44.63%
+  18 Nanfito, Brett     A60635   C   Production  Minor N   N   N   N              245.7443  42.39%
+  19 Sherrets, Lindsey  Pen      U   Production  Minor Y   N   N   N              237.3579  40.94%
+  20 Harbin, Warren     A58624   D   Production  Minor N   N   N   N Senior       233.8496  40.34%
+  21 Young, Ken         A50574   D   Limited 10  Major N   N   N   N              196.6119  33.91%
+  22 Dotson, Mark       A61702   C   Limited     Major N   N   N   N              193.5433  33.38%
+  23 Mark, John         TY44063  D   Limited     Major N   N   N   N Super Senior 184.2615  31.78%
+  24 Karasek, David     A66491   U   Production  Minor N   N   N   N              181.7665  31.35%
+  25 Acome, Tony        Pen      U   Limited     Major N   N   N   N              166.8821  28.79%
+  26 Howard, Julie               U   Production  Minor N   N   N   N              122.6492  21.16%
+  27 Engel, Sandy       Pen      U   Limited     Major N   N   N   N              117.3226  20.24%
+  28 Vantluka, Eugene   TY13544  U   Production  Minor N   N   N   N               93.5337  16.13%
+  29 Bertola, Roger     A62395   U   Limited     Major N   N   N   N               67.0643  11.57%
+ 
+Sometimes the order of finish changes from the 'By Division' report and
+the 'Combined' report.  This is beacuse a different Stage High Hit Factor 
+was used to calculate the stage points.
+ 

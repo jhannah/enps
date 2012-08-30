@@ -1,0 +1,251 @@
+ENGC Pistol June 2006
+Match Date: 6/4/2006
+
+Place Name              USPSA  Class Division     PF Lady For Age         Points   Stg %
+   1 Thorne, Rob                 B   Limited     Major N   N              315.3843 100.00%
+   2 Park, Joel                  B   Limited     Minor N   N              301.4684  95.59%
+   3 Simandl, Rich               C   Limited     Major N   N              301.3167  95.54%
+   4 Nielson, Les                U   Limited     Minor N   N              250.9277  79.56%
+   5 Shotkoski, Tom              C   Limited     Major N   N              226.0936  71.69%
+   6 Davis, Doug                 C   Limited     Minor N   N Super Senior 192.9832  61.19%
+   7 Kunkle, John                U   Limited     Major N   N              177.3438  56.23%
+   8 Clark, Jim                  U   Limited     Major N   N               80.8243  25.63%
+   9 Klepper, Kayla              U   Limited     Minor Y   N Junior        75.4222  23.91%
+  10 Bugajny, Steve              U   Limited     Minor N   N               20.1054   6.37%
+  11 Blair, Kirk                 B   Limited     Major N   N                0.0000   0.00%
+
+Stage: 1  Big Range
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Simandl, Rich          29   C   Limited      82   0  18.04   4.5455  85.0000 100.00%
+    2 Park, Joel             26   B   Limited      71   0  24.61   2.8850  53.9490  63.47%
+    3 Nielson, Les           10   U   Limited      81   0  28.30   2.8622  53.5226  62.97%
+    4 Davis, Doug             9   C   Limited      67   0  23.42   2.8608  53.4964  62.94%
+    5 Shotkoski, Tom          2   C   Limited      81   0  31.16   2.5995  48.6102  57.19%
+    6 Kunkle, John           24   U   Limited      71  10  29.69   2.0546  38.4206  45.20%
+    7 Thorne, Rob            13   B   Limited      73  10  32.57   1.9343  36.1710  42.55%
+    8 Clark, Jim             20   U   Limited      77   0  57.98   1.3280  24.8334  29.22%
+    9 Klepper, Kayla         11   U   Limited      58  30  74.90   0.3738   6.9900   8.22%
+   10 Blair, Kirk            30   B   Limited      15 210  14.12   0.0000   0.0000   0.00%
+  Tie Bugajny, Steve         21   U   Limited      40  80  71.03   0.0000   0.0000   0.00%
+
+Stage: 2  Bay 2
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Thorne, Rob            13   B   Limited      85   0  16.10   5.2795  90.0000 100.00%
+    2 Park, Joel             26   B   Limited      78   0  16.29   4.7882  81.6248  90.69%
+    3 Shotkoski, Tom          2   C   Limited      87   0  20.44   4.2564  72.5591  80.62%
+    4 Nielson, Les           10   U   Limited      88   0  23.37   3.7655  64.1907  71.32%
+    5 Kunkle, John           24   U   Limited      83   0  22.14   3.7489  63.9078  71.01%
+    6 Simandl, Rich          29   C   Limited      81   0  24.20   3.3471  57.0582  63.40%
+    7 Davis, Doug             9   C   Limited      70  20  18.90   2.6455  45.0980  50.11%
+    8 Klepper, Kayla         11   U   Limited      64   0  53.79   1.1898  20.2826  22.54%
+    9 Clark, Jim             20   U   Limited      60  20  60.35   0.6628  11.2988  12.55%
+   10 Bugajny, Steve         21   U   Limited      44  80  47.20   0.0000   0.0000   0.00%
+
+Stage: 3  Bay 3
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Thorne, Rob            13   B   Limited     122   0  14.64   8.3333 130.0000 100.00%
+    2 Park, Joel             26   B   Limited     124   0  15.18   8.1686 127.4307  98.02%
+    3 Simandl, Rich          29   C   Limited     127   0  19.96   6.3627  99.2585  76.35%
+    4 Shotkoski, Tom          2   C   Limited     121  10  20.50   5.4146  84.4681  64.98%
+    5 Nielson, Les           10   U   Limited     120   0  23.88   5.0251  78.3919  60.30%
+    6 Davis, Doug             9   C   Limited      93  10  20.27   4.0947  63.8776  49.14%
+    7 Klepper, Kayla         11   U   Limited      96   0  33.78   2.8419  44.3338  34.10%
+    8 Clark, Jim             20   U   Limited     118   0  44.17   2.6715  41.6756  32.06%
+    9 Kunkle, John           24   U   Limited     102  50  25.27   2.0578  32.1018  24.69%
+   10 Bugajny, Steve         21   U   Limited      99  30  53.54   1.2888  20.1054  15.47%
+
+Stage: 4  Bookout's Boogie
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Simandl, Rich          29   C   Limited      59   0  13.79   4.2785  60.0000 100.00%
+    2 Thorne, Rob            13   B   Limited      60   0  14.21   4.2224  59.2133  98.69%
+    3 Nielson, Les           10   U   Limited      50   0  12.79   3.9093  54.8225  91.37%
+    4 Kunkle, John           24   U   Limited      56   0  18.30   3.0601  42.9136  71.52%
+    5 Park, Joel             26   B   Limited      47  10  13.49   2.7428  38.4639  64.11%
+    6 Davis, Doug             9   C   Limited      46  20  11.95   2.1757  30.5112  50.85%
+    7 Shotkoski, Tom          2   C   Limited      47  20  18.51   1.4587  20.4562  34.09%
+    8 Klepper, Kayla         11   U   Limited      42  20  80.85   0.2721   3.8158   6.36%
+    9 Clark, Jim             20   U   Limited      41  30  51.14   0.2151   3.0165   5.03%
+   10 Bugajny, Steve         21   U   Limited      14  80  34.23   0.0000   0.0000   0.00%
+
+
+
+Place Name              USPSA  Class Division     PF Lady For Age         Points   Stg %
+   1 Huber, Ramon                C   Limited 10  Major N   N              297.2854 100.00%
+   2 Valentine, Larry            D   Limited 10  Major N   N Senior       279.0191  93.86%
+   3 Zeeb, Cody                  U   Limited 10  Major N   N Junior       265.5569  89.33%
+   4 Young, Ken                  D   Limited 10  Major N   N              169.7752  57.11%
+
+Stage: 1  Big Range
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Zeeb, Cody             19   U   Limited 10   71  10  20.03   3.0454  85.0000 100.00%
+    2 Huber, Ramon           31   C   Limited 10   74   0  42.26   1.7511  48.8749  57.50%
+    3 Valentine, Larry        4   D   Limited 10   65   0  47.40   1.3713  38.2743  45.03%
+    4 Young, Ken             16   D   Limited 10   65  30  47.26   0.7406  20.6708  24.32%
+
+Stage: 2  Bay 2
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Valentine, Larry        4   D   Limited 10   84   0  36.63   2.2932  90.0000 100.00%
+    2 Huber, Ramon           31   C   Limited 10   78  10  45.69   1.4883  58.4105  64.90%
+    3 Zeeb, Cody             19   U   Limited 10   72  10  48.18   1.2868  50.5024  56.11%
+    4 Young, Ken             16   D   Limited 10   63  30  87.98   0.3751  14.7214  16.36%
+
+Stage: 3  Bay 3
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Huber, Ramon           31   C   Limited 10  126   0  27.64   4.5586 130.0000 100.00%
+    2 Valentine, Larry        4   D   Limited 10  113   0  24.94   4.5309 129.2101  99.39%
+    3 Young, Ken             16   D   Limited 10  117  10  28.41   3.7663 107.4056  82.62%
+    4 Zeeb, Cody             19   U   Limited 10  117   0  32.25   3.6279 103.4587  79.58%
+
+Stage: 4  Bookout's Boogie
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Huber, Ramon           31   C   Limited 10   54  10  18.41   2.3900  60.0000 100.00%
+    2 Young, Ken             16   D   Limited 10   52   0  48.39   1.0746  26.9774  44.96%
+    3 Zeeb, Cody             19   U   Limited 10   59   0  55.69   1.0594  26.5958  44.33%
+    4 Valentine, Larry        4   D   Limited 10   44  20  27.98   0.8578  21.5347  35.89%
+
+
+
+Place Name              USPSA  Class Division     PF Lady For Age         Points   Stg %
+   1 Griffith, Guy               B   Open        Major N   N              349.3893 100.00%
+   2 Griffith, Austin            B   Open        Major N   N Junior       346.2242  99.09%
+   3 Davies, Chris               B   Open        Major N   N              322.0327  92.17%
+   4 Awe, Jeffrey                B   Open        Major N   N              319.1266  91.34%
+   5 Marx, Dick                  B   Open        Major N   N              311.0897  89.04%
+   6 Klepper, Tim                B   Open        Major N   N              303.1270  86.76%
+   7 Andersen, Ken               B   Open        Major N   N              302.9823  86.72%
+   8 Rogers, Dale                C   Open        Major N   N              214.6420  61.43%
+   9 Mullins, Bob                U   Open        Major N   N              212.5874  60.85%
+  10 Schaer, Tim                 B   Open        Major N   N              136.7479  39.14%
+
+Stage: 1  Big Range
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Griffith, Austin       22   B   Open         75   0  16.40   4.5732  85.0000 100.00%
+    2 Andersen, Ken          32   B   Open         76   0  16.68   4.5564  84.6877  99.63%
+    3 Griffith, Guy          23   B   Open         79   0  17.50   4.5143  83.9053  98.71%
+    4 Marx, Dick             15   B   Open         81   0  18.15   4.4628  82.9480  97.59%
+    5 Klepper, Tim           12   B   Open         80   0  21.07   3.7969  70.5713  83.03%
+    6 Schaer, Tim            28   B   Open         73   0  20.04   3.6427  67.7052  79.65%
+    7 Awe, Jeffrey           25   B   Open         76  10  18.55   3.5580  66.1309  77.80%
+    8 Davies, Chris           3   B   Open         79   0  22.75   3.4725  64.5418  75.93%
+    9 Mullins, Bob            7   U   Open         76  10  25.28   2.6108  48.5258  57.09%
+   10 Rogers, Dale           17   C   Open         79   0  39.85   1.9824  36.8460  43.35%
+
+Stage: 2  Bay 2
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Griffith, Guy          23   B   Open         89   0  13.08   6.8043  90.0000 100.00%
+    2 Davies, Chris           3   B   Open         84   0  12.78   6.5728  86.9380  96.60%
+    3 Griffith, Austin       22   B   Open         82   0  12.72   6.4465  85.2674  94.74%
+    4 Awe, Jeffrey           25   B   Open         88   0  15.10   5.8278  77.0839  85.65%
+    5 Klepper, Tim           12   B   Open         88   0  19.42   4.5314  59.9365  66.60%
+    6 Mullins, Bob            7   U   Open         88   0  19.96   4.4088  58.3149  64.79%
+    7 Marx, Dick             15   B   Open         87   0  21.58   4.0315  53.3244  59.25%
+    8 Rogers, Dale           17   C   Open         83   0  24.59   3.3754  44.6462  49.61%
+    9 Andersen, Ken          32   B   Open         80   0  26.95   2.9685  39.2641  43.63%
+   10 Schaer, Tim            28   B   Open         84   0  40.00   2.1000  27.7766  30.86%
+
+Stage: 3  Bay 3
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Griffith, Austin       22   B   Open        120   0  12.67   9.4712 130.0000 100.00%
+    2 Davies, Chris           3   B   Open        120   0  13.04   9.2025 126.3119  97.16%
+    3 Marx, Dick             15   B   Open        120   0  13.11   9.1533 125.6366  96.64%
+    4 Klepper, Tim           12   B   Open        116   0  13.04   8.8957 122.1008  93.92%
+    5 Griffith, Guy          23   B   Open        127   0  14.44   8.7950 120.7186  92.86%
+    6 Andersen, Ken          32   B   Open        111   0  12.76   8.6991 119.4023  91.85%
+    7 Awe, Jeffrey           25   B   Open        120   0  14.21   8.4448 115.9118  89.16%
+    8 Rogers, Dale           17   C   Open        122   0  16.93   7.2061  98.9096  76.08%
+    9 Mullins, Bob            7   U   Open        129   0  28.09   4.5924  63.0345  48.49%
+   10 Schaer, Tim            28   B   Open        116   0  76.11   1.5241  20.9195  16.09%
+
+Stage: 4  Bookout's Boogie
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Awe, Jeffrey           25   B   Open         58   0  10.04   5.7769  60.0000 100.00%
+    2 Andersen, Ken          32   B   Open         55   0   9.58   5.7411  59.6282  99.38%
+    3 Griffith, Guy          23   B   Open         57   0  10.81   5.2729  54.7654  91.28%
+    4 Klepper, Tim           12   B   Open         59   0  12.13   4.8640  50.5184  84.20%
+    5 Marx, Dick             15   B   Open         59   0  12.46   4.7352  49.1807  81.97%
+    6 Griffith, Austin       22   B   Open         60   0  13.56   4.4248  45.9568  76.59%
+    7 Davies, Chris           3   B   Open         52  10   9.86   4.2596  44.2410  73.74%
+    8 Mullins, Bob            7   U   Open         60   0  14.59   4.1124  42.7122  71.19%
+    9 Rogers, Dale           17   C   Open         55  10  13.65   3.2967  34.2402  57.07%
+   10 Schaer, Tim            28   B   Open         54  10  22.46   1.9590  20.3466  33.91%
+
+
+
+Place Name              USPSA  Class Division     PF Lady For Age         Points   Stg %
+   1 Kirchoff, Dennis            U   Production  Minor N   N              324.1539 100.00%
+   2 Zeeb, Chris                 U   Production  Minor N   N              317.7005  98.01%
+   3 Mitchell, Travis            C   Production  Minor N   N              237.5477  73.28%
+   4 Gant, Mike                  U   Production  Minor N   N              216.6662  66.84%
+   5 Begley, Terry               C   Production  Minor N   N              216.6105  66.82%
+   6 Middlemas, Dave             C   Production  Minor N   N              200.1316  61.74%
+   7 Hanna, Bill                 U   Production  Minor N   N              179.2565  55.30%
+   8 Jones, Craig                U   Production  Minor N   N              167.5917  51.70%
+   9 Mitchell, Bob               U   Production  Minor N   N Senior       135.5146  41.81%
+
+Stage: 1  Big Range
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Kirchoff, Dennis        6   U   Production   81   0  24.32   3.3306  85.0000 100.00%
+    2 Zeeb, Chris            18   U   Production   68  10  22.68   2.5573  65.2647  76.78%
+    3 Mitchell, Travis       34   C   Production   67   0  34.76   1.9275  49.1916  57.87%
+    4 Mitchell, Bob          33   U   Production   65   0  42.72   1.5215  38.8301  45.68%
+    5 Middlemas, Dave         8   C   Production   79   0  52.36   1.5088  38.5060  45.30%
+    6 Jones, Craig            5   U   Production   75   0  50.29   1.4914  38.0619  44.78%
+    7 Begley, Terry           1   C   Production   66  10  46.79   1.1968  30.5434  35.93%
+    8 Gant, Mike             14   U   Production   67   0  56.61   1.1835  30.2040  35.53%
+    9 Hanna, Bill            35   U   Production   57  20  41.38   0.8942  22.8208  26.85%
+
+Stage: 2  Bay 2
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Zeeb, Chris            18   U   Production   77  10  16.48   4.0655  90.0000 100.00%
+    2 Kirchoff, Dennis        6   U   Production   76   0  21.48   3.5382  78.3269  87.03%
+    3 Begley, Terry           1   C   Production   82   0  24.03   3.4124  75.5420  83.94%
+    4 Gant, Mike             14   U   Production   67  10  20.26   2.8134  62.2816  69.20%
+    5 Mitchell, Travis       34   C   Production   76   0  27.46   2.7677  61.2700  68.08%
+    6 Jones, Craig            5   U   Production   84   0  43.08   1.9499  43.1659  47.96%
+    7 Middlemas, Dave         8   C   Production   82   0  46.74   1.7544  38.8380  43.15%
+    8 Hanna, Bill            35   U   Production   72   0  45.39   1.5863  35.1167  39.02%
+    9 Mitchell, Bob          33   U   Production   67  10  40.59   1.4043  31.0877  34.54%
+
+Stage: 3  Bay 3
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Zeeb, Chris            18   U   Production  122   0  18.73   6.5136 130.0000 100.00%
+    2 Middlemas, Dave         8   C   Production  112   0  20.67   5.4185 108.1437  83.19%
+    3 Kirchoff, Dennis        6   U   Production  112   0  22.17   5.0519 100.8270  77.56%
+    4 Gant, Mike             14   U   Production  108   0  21.82   4.9496  98.7853  75.99%
+    5 Mitchell, Travis       34   C   Production  112   0  22.79   4.9144  98.0828  75.45%
+    6 Begley, Terry           1   C   Production  126   0  27.05   4.6580  92.9655  71.51%
+    7 Hanna, Bill            35   U   Production  112   0  24.78   4.5198  90.2073  69.39%
+    8 Mitchell, Bob          33   U   Production  107  20  26.47   3.2867  65.5968  50.46%
+    9 Jones, Craig            5   U   Production  120   0  37.60   3.1915  63.6967  49.00%
+
+Stage: 4  Bookout's Boogie
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 Kirchoff, Dennis        6   U   Production   58   0  11.70   4.9573  60.0000 100.00%
+    2 Zeeb, Chris            18   U   Production   45  10  13.06   2.6799  32.4358  54.06%
+    3 Hanna, Bill            35   U   Production   51  10  15.95   2.5705  31.1117  51.85%
+    4 Mitchell, Travis       34   C   Production   51  10  17.11   2.3963  29.0033  48.34%
+    5 Gant, Mike             14   U   Production   56   0  26.69   2.0982  25.3953  42.33%
+    6 Jones, Craig            5   U   Production   48   0  25.63   1.8728  22.6672  37.78%
+    7 Begley, Terry           1   C   Production   51  10  28.26   1.4508  17.5596  29.27%
+    8 Middlemas, Dave         8   C   Production   40  20  16.53   1.2099  14.6439  24.41%
+    9 Mitchell, Bob          33   U   Production   30  60  18.78   0.0000   0.0000   0.00%
+
+
+Place Name              USPSA  Class Division     PF Lady For Age         Points   Stg %
+   1 McSheehy, Sean               U   Revolver    Major N   N              305.0000 100.00%
+
+Stage: 1  Big Range
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 McSheehy, Sean         27   U   Revolver     77  10  44.70   1.4989  85.0000 100.00%
+
+Stage: 2  Bay 2
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 McSheehy, Sean         27   U   Revolver     75   0  90.79   0.8261  90.0000 100.00%
+
+Stage: 3  Bay 3
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 McSheehy, Sean         27   U   Revolver    115   0  68.31   1.6835 130.0000 100.00%
+
+Stage: 4  Bookout's Boogie
+Place Name                  No. Class Division    Pts  Pen Time   Hit Fact Stg Pts  Stg %
+    1 McSheehy, Sean         27   U   Revolver     26  60  36.47   0.0000   0.0000   0.00%

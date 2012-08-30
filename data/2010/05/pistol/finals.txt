@@ -1,0 +1,50 @@
+Updated on 5/4/10 to correct division for S. Suitor
+
+ENGC PIstol May 2010 Special Classifier
+Match Date: 5/1/2010
+
+Place Name              USPSA  Class Division     PF Lady Mil Law For Age         Points   Stg %
+   1 Howard, Thomas     TY57207  U   Production  Minor N   N   N   N              330.1740 100.00%
+   2 Kirchoff, Dennis   A56480   B   Production  Minor N   N   N   N              301.7609  91.39%
+   3 Marx, Dick         A19646   B   Open        Major N   N   N   N Super Senior 286.7829  86.86%
+   4 Nielson, Les       A49306   C   Limited     Minor N   N   N   N              256.2678  77.62%
+   5 Andersen, Ken      TY47278  U   Single Stack  Major N   N   N   N              245.9177  74.48%
+   6 Becker, Bill       A65882   U   Single Stack  Major N   N   N   N              241.7041  73.21%
+   7 Nanfito, Brett     A60635   D   Limited     Minor N   N   N   N              234.4969  71.02%
+   8 Victor, John       TY7587   B   Production  Minor N   N   N   N              232.3724  70.38%
+   9 Simandl, Rich      TY44974  C   Limited 10  Major N   N   N   N              232.3519  70.37%
+  10 Leith, George      A7755    U   Limited     Major N   N   N   N Super Senior 227.8449  69.01%
+  11 Engel, Tom         A61813   B   Limited     Major N   N   N   N              223.2652  67.62%
+  12 Huber, Ramon       A47135   C   Limited 10  Major N   N   N   N              206.4253  62.52%
+  13 Smith, Kevin       A63793   U   Limited     Major N   N   N   N              203.4640  61.62%
+  14 Renolds, Jared     A64880   U   Production  Minor N   N   N   N              195.6755  59.26%
+  15 Acome, Tony        A66877   U   Limited     Minor N   N   N   N              173.2495  52.47%
+  16 Menke, Derek       Pen      U   Limited     Major N   N   N   N              169.7963  51.43%
+  17 Mark, John         TY44063  D   Limited     Major N   N   N   N Super Senior 166.9518  50.56%
+  18 Karasek, David     A66491   U   Production  Minor N   N   N   N              159.0152  48.16%
+  19 Begley, Terry      TY48539  U   Single Stack  Major N   N   N   N              154.7833  46.88%
+  20 Hedlund, Chris     A62882   C   Production  Minor N   N   N   N              154.6791  46.85%
+  21 McCullough, James  A62035   U   Production  Minor N   N   N   N              151.7205  45.95%
+  22 Suiter, Bill       A56522   U   Production  Minor N   N   N   N              145.5347  44.08%
+  23 Anglin, Jim        TY28121  U   Revolver    Major N   N   N   N              137.0039  41.49%
+  24 Young, Ken         A50574   U   Limited     Major N   N   N   N              136.3865  41.31%
+  25 Davies, Chris      A12924   U   Revolver    Major N   N   N   N              134.3591  40.69%
+  26 Mrasek, Ardi       A63276   D   Production  Minor Y   N   N   N              133.6068  40.47%
+  27 Davis, Doug        A11475   C   Production  Minor N   N   N   N Super Senior 129.6697  39.27%
+  28 Sherrets, Lindsey  TY64242  U   Limited     Minor Y   N   N   N              125.7281  38.08%
+  29 Paulson, Mark      Pen      U   Limited     Major N   N   N   N              123.2044  37.31%
+  30 Howard, Julie      A67061   U   Production  Minor Y   N   N   N              115.1853  34.89%
+  31 Abrahams, William  L2900    U   Limited     Minor N   N   N   N              113.9918  34.52%
+  32 Gewecke, Sean      Pen      U   Production  Minor N   N   N   N              109.5472  33.18%
+  33 Kirk, Brian        Pen      U   Production  Minor N   N   N   N              107.9992  32.71%
+  34 Engel, Sandy       A66566   U   Limited     Major Y   N   N   N              103.9419  31.48%
+  35 Dollison, Dan      A66268   U   Limited     Major N   N   N   N              100.1050  30.32%
+  36 Lorenzen, Wayne    A62890   D   Production  Minor N   N   N   N               91.3514  27.67%
+  37 Wagner, George     TY18312  C   Revolver    Major N   N   N   N Senior        89.7574  27.18%
+  38 Suiter, Shantelle  Pen      U   Limited     Minor Y   N   N   N               89.5742  27.13%
+  39 Wagner, Bobbi      TY28301  U   Single Stack  Major Y   N   N   N               87.3331  26.45%
+  40 Lorenzen, Ben      A63100   D   Production  Minor N   N   N   N Junior        65.9040  19.96%
+  41 Preston, Brad      A62739   D   Production  Minor N   N   N   N               65.5986  19.87%
+  42 Huber, Rachelle    A47134   D   Production  Minor N   N   N   N               30.5147   9.24%
+  43 Paulson, Erik      Pen      U   Revolver    Major N   N   N   N                0.8838   0.27%
+ 

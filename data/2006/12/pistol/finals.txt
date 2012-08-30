@@ -1,0 +1,25 @@
+ENGC Pistol December 2006
+Match Date: 12/3/2006
+
+Place Name              USPSA  Class Division     PF Lady For Age         Points   Stg %
+   1 Awe, Jeffrey       TY42765  A   Open        Major N   N              384.9663 100.00%
+   2 Griffith, Austin   A53045   B   Open        Major N   N Junior       384.8932  99.98%
+   3 Griffith, Guy      TY48607  B   Open        Major N   N              378.3188  98.27%
+   4 Thorne, Rob        A49739   B   Limited     Major N   N              319.4894  82.99%
+   5 Park, Joel         A50841   C   Limited     Minor N   N              313.6227  81.47%
+   6 Davies, Chris      A12924   B   Open        Major N   N              302.6024  78.60%
+   7 Abrahams, William  A56562   U   Open        Major N   N              292.8373  76.07%
+   8 Kirchoff, Dennis   A56480   B   Production  Minor N   N              270.5709  70.28%
+   9 Nielson, Les       A49306   U   Production  Minor N   N              231.7873  60.21%
+  10 Pershing, John     TY56098  C   Production  Minor N   N              204.1688  53.04%
+  11 Howard, Tom        A57207   U   Production  Minor N   N              189.7302  49.28%
+  12 Simandl, Rich      TY44974  D   Production  Minor N   N              188.7383  49.03%
+  13 Hanna, Bill                 D   Limited     Major N   N              180.2877  46.83%
+  14 Zeeb, Chris        A55214   C   Revolver    Major N   N              168.7222  43.83%
+  15 Hartzell, Neil     A57547   U   Limited     Major N   N              160.1212  41.59%
+  16 McSheehy, Sean     A44616   C   Limited     Major N   N              156.4776  40.65%
+  17 Begley, Terry      TY48539  C   Production  Minor N   N              151.0795  39.24%
+  18 Fannan, Kevin               U   Production  Minor N   N              146.4730  38.05%
+  19 Tubbs, Mike                 U   Limited     Major N   N              121.2201  31.49%
+  20 Young, Ken         A50574   D   Limited 10  Major N   N               99.1328  25.75%
+  21 Mark, John         TY44063  D   Limited 10  Major N   N Super Senior  71.3339  18.53%

@@ -1,0 +1,36 @@
+ENGC Pistol Dec 2011
+Match Date: 12/4/2011
+Combined divisions - These are NOT official results.
+
+Place Name              USPSA  Class Division     PF Lady Mil Law For Age         Points   Stg %
+   1 Thorne, Rob        A49739   U   Limited     Major N   N   N   N              266.9989 100.00%
+   2 Engel, Tom         TY61813  B   Limited     Major N   N   N   N              264.3425  99.01%
+   3 Kirchhoff, Dennis  A56480   B   Limited     Major N   N   N   N              263.2148  98.58%
+   4 Andersen, Ken      FY47278  A   Open        Major N   N   N   N              228.7216  85.66%
+   5 Howard, Thomas     L3232    M   Production  Minor N   N   N   N              224.1438  83.95%
+   6 Davis, Doug        TY11475  C   Limited 10  Major N   N   N   N Super Senior 221.9759  83.14%
+   7 Awe, Jeffrey       A42765   A   Open        Major N   N   N   N              210.6513  78.90%
+   8 Smith, Bryan       A71115   B   Single Stack  Major N   N   N   N              208.3483  78.03%
+   9 Marx, Dick         A19646   B   Open        Major N   N   N   N Super Senior 191.8180  71.84%
+  10 Mende, Eric        A29994   C   Single Stack  Minor N   N   N   N              154.9923  58.05%
+  11 Karasek, David     A66491   C   Production  Minor N   N   N   N              137.7705  51.60%
+  12 Gewecke, Sean      A68385   C   Production  Minor N   N   N   N              130.8707  49.02%
+  13 Awe, Bob           Pen      U   Limited     Major N   N   N   N              129.8967  48.65%
+  14 Andersen, Danielle          U   Open        Minor Y   N   N   N Junior       127.0555  47.59%
+  15 Howard, Julie      TY67061  D   Production  Minor Y   N   N   N              118.8914  44.53%
+  16 Young, Ken         TY50574  C   Limited     Major N   N   N   N              116.3297  43.57%
+  17 Begley, Terry      TY48539  C   Production  Minor N   N   N   N              101.9302  38.18%
+  18 Cherry, Mike       A74367   U   Limited     Major N   N   N   N               97.5933  36.55%
+  19 Pear, Ben          Pen      U   Production  Minor N   N   N   N               83.0199  31.09%
+  20 Classen, Ashley             U   Production  Minor Y   N   N   N               71.9980  26.97%
+  21 Baird, Graham      A71736   D   Single Stack  Major N   N   N   N               58.5506  21.93%
+  22 Anderson, Rachael           U   Open        Minor Y   N   N   N Junior        55.0713  20.63%
+  23 Mantonya, Kurt     A71948   D   Production  Minor N   N   N   N               52.7249  19.75%
+ 
+Combined divisions - These are NOT official results.
+ 
+Sometimes the order of finish changes from the 'By Division' report and
+the 'Combined' report.  This is beacuse a different Stage High Hit Factor 
+was used to calculate the stage points.
+ 
+Printed: 12/04/2011 6:56 PM

@@ -1,0 +1,30 @@
+ENGC Pistol February 2007
+Match Date: 4/29/2007
+
+Place Name              USPSA  Class Division     PF Lady For Age         Points   Stg %
+   1 Griffith, Austin   A53045   U   Open        Major N   N Junior       298.7611 100.00%
+   2 Howard, Tom        A57207   U   Production  Minor N   N              278.8616  93.34%
+   3 Groff, Justin      TY35249  B   Open        Major N   N              257.8331  86.30%
+   4 Marx, Dick         A19646   B   Open        Major N   N              255.9229  85.66%
+   5 Kirchoff, Dennis   A56480   U   Limited     Minor N   N              238.4784  79.82%
+   6 Thorne, Rob        A49739   B   Limited     Major N   N              231.5427  77.50%
+   7 Nielson, Les       A49306   U   Revolver    Major N   N              168.2209  56.31%
+   8 Mullins, Bob       A49989   C   Open        Major N   N              148.8707  49.83%
+   9 Zeeb, Chris        A55214   U   Revolver    Major N   N              148.3155  49.64%
+  10 Huber, Ramon       A47135   C   Limited     Major N   N              145.6800  48.76%
+  11 Davis, Doug        A11475   C   Limited 10  Major N   N Super Senior 142.6515  47.75%
+  12 Wagner, George     TY18312  B   Production  Minor N   N Senior       140.8961  47.16%
+  13 Sellers, Chuck              U   Limited     Major N   N              124.4625  41.66%
+  14 Rogers, Dale       L2528    C   Open        Major N   N Senior       123.1974  41.24%
+  15 Gant, Mike         A55911   U   Open        Major N   N              111.0319  37.16%
+  16 Tyrrell JR, Tim             U   Limited 10  Major N   N               85.0354  28.46%
+  17 Griffith, Guy      TY48607  U   Production  Minor N   N               83.6547  28.00%
+  18 Tyrrell SR, Tim    Pen      U   Limited 10  Major N   N               82.0131  27.45%
+  19 McSheehy, Sean     A44616   D   Revolver    Major N   N               78.6779  26.33%
+  20 Hanna, Bill                 D   Limited     Major N   N               77.8124  26.05%
+  21 Simandl, Rich      TY44974  D   Production  Minor N   N               71.6521  23.98%
+  22 Harbin, Warren     A58624   U   Production  Minor N   N Senior        70.9916  23.76%
+  23 Hartzell, Neil     A57547   U   Limited     Major N   N               62.0238  20.76%
+  24 Mark, John         TY44063  U   Limited     Major N   N Super Senior  40.5320  13.57%
+  25 Nielsen, Brett     A59067   U   Production  Minor N   N Junior        36.2231  12.12%
+

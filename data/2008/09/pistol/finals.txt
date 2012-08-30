@@ -1,0 +1,47 @@
+ENGC Pistol September 2008
+Match Date: 9/7/2008
+Corrected 10/5/08
+
+Place Name              USPSA  Class Division     PF Lady Mil Law For Age         Points   Stg %
+   1 Anderson, Ken      TY47278  A   Open        Major N   N   N   N              535.1700 100.00%
+   2 Davies, Chris      A12924   B   Open        Major N   N   N   N              485.1771  90.66%
+   3 Awe, Jeffrey       TY42765  A   Open        Major N   N   N   N              481.4648  89.96%
+   4 Barg, Larry        A29194   U   Open        Minor N   N   N   N              461.4098  86.22%
+   5 Wagner, George     TY18312  B   Open        Major N   N   N   N Senior       436.0518  81.48%
+   6 Thorne, Rob        A49739   B   Limited     Major N   N   N   N              402.6892  75.25%
+   7 Howard, Tom        TY57207  B   Production  Minor N   N   N   N              396.4226  74.07%
+   8 Nielson, Les       TY49306  C   Limited     Minor N   N   N   N              378.8781  70.80%
+   9 Marx, Dick         A19646   B   Open        Major N   N   N   N Super Senior 373.7642  69.84%
+  10 Kirchoff, Dennis   A56480   B   Production  Minor N   N   N   N              362.9388  67.82%
+  11 Zeeb, Chris        A55214   B   Limited     Minor N   N   N   N              360.9681  67.45%
+  12 Groff, Justin      TY35249  B   Open        Major N   N   N   N              358.2643  66.94%
+  13 Simandl, Rich      TY44974  C   Limited     Major N   N   N   N              329.2914  61.53%
+  14 Suiter, Bill       A56522   U   Limited     Major N   N   N   N              324.6059  60.65%
+  15 Mullins, Bob       A49989   C   Open        Major N   N   N   N              320.1067  59.81%
+  16 Rogers, Dale       L2528    C   Open        Major N   N   N   N Senior       318.7697  59.56%
+  17 Wagner, Bobbi      TY28301  C   Open        Major Y   N   N   N              299.3589  55.94%
+  18 Licari, Ron        A61703   U   Limited     Major N   N   N   N              263.4254  49.22%
+  19 Knight, Shawn      A56661   U   Revolver    Major N   N   N   N              256.0069  47.84%
+  20 Davis, Doug        A11475   C   Limited     Minor N   N   N   N Super Senior 255.9589  47.83%
+  21 Hanna, Bill        A54788   D   Limited     Major N   N   N   N Super Senior 254.2550  47.51%
+  22 Pershing, John     TY56098  C   Production  Minor N   N   N   N              249.1338  46.55%
+  23 Nanfito, Brett     A60635   D   Limited     Major N   N   N   N              247.2886  46.21%
+  24 Bills, Jim                  U   Single Stack  Major N   N   N   N              236.6638  44.22%
+  25 Mark, John         TY44063  D   Limited     Major N   N   N   N Super Senior 200.5102  37.47%
+  26 Smith, Kevin                U   Limited 10  Major N   N   N   N              188.8804  35.29%
+  27 Begley, Terry      TY48539  D   Revolver    Major N   N   N   N              162.8868  30.44%
+  28 Christian, Richard A62882   U   Production  Minor N   N   N   N              162.4099  30.35%
+  29 Young, Ken         A50574   D   Limited 10  Major N   N   N   N              160.1867  29.93%
+  30 Zeeb, Alex                  U   Limited 10  Minor N   N   N   N Junior       104.7325  19.57%
+  31 Sherrets, Lindsey  S        U   Production  Minor N   N   N   N               85.4172  15.96%
+  32 Lorenzen, Zach     A63101   U   Production  Minor N   N   N   N Junior        71.8052  13.42%
+  33 Lorenzen, Ben      A63100   U   Production  Minor N   N   N   N Junior        67.2634  12.57%
+  34 Andersen, Rachael           U   Production  Minor N   N   N   N Junior        60.1848  11.25%
+  35 Lorenzen, Wayne    A62890   U   Production  Minor N   N   N   N               48.2338   9.01%
+  
+Combined divisions - These are NOT official results.
+ 
+Sometimes the order of finish changes from the 'By Division' report and
+the 'Combined' report.  This is beacuse a different Stage High Hit Factor 
+was used to calculate the stage points.
+ 

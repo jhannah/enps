@@ -1,0 +1,21 @@
+ENGC Pistol May 2007
+Match Date: 5/6/2007
+
+Place Name              USPSA  Class Division     PF Lady For Age         Points   Stg %
+   1 Andersen, Ken      TY47278  B   Open        Major N   N              311.3945 100.00%
+   2 Davies, Chris      A12924   B   Open        Major N   N              297.8485  95.65%
+   3 Groff, Justin      TY35249  B   Open        Major N   N              279.3275  89.70%
+   4 Thorne, Rob        A49739   B   Limited     Major N   N              275.7481  88.55%
+   5 Marx, Dick         A19646   B   Open        Major N   N              249.0373  79.97%
+   6 Rogers, Dale       L2528    C   Open        Major N   N Senior       220.7530  70.89%
+   7 Howard, Tom        A57207   U   Production  Minor N   N              218.2448  70.09%
+   8 Davis, Doug        A11475   C   Limited 10  Major N   N Super Senior 161.3580  51.82%
+   9 Huber, Ramon       A47135   U   Limited     Major N   N              149.0666  47.87%
+  10 Zeeb, Chris        A55214   U   Revolver    Major N   N              147.1341  47.25%
+  11 Begley, Terry      TY48539  C   Production  Minor N   N              125.5678  40.32%
+  12 McSheehy, Sean     A44616   D   Revolver    Major N   N              113.9578  36.60%
+  13 Tyrrell JR, Tim             U   Limited 10  Major N   N               98.8291  31.74%
+  14 Tyrrell SR, Tim    Pen      U   Limited 10  Major N   N               98.2429  31.55%
+  15 Mark, John         TY44063  D   Limited     Major N   N Super Senior  80.2319  25.77%
+  16 Young, Ken         A50574   D   Limited 10  Major N   N               25.6360   8.23%
+

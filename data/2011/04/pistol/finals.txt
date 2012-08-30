@@ -1,0 +1,60 @@
+ENGC Pistol April 2011
+Match Date: 4/3/2011
+
+Place Name              USPSA  Class Division     PF Lady Mil Law For Age         Points   Stg %
+   1 Andersen, Ken      FY47278  A   Open        Major N   N   N   N              496.4067 100.00%
+   2 Davies, Chris      TY12924  B   Open        Major N   N   N   N              491.3265  98.98%
+   3 Wagner, George     TY18312  B   Open        Major N   N   N   N Senior       479.3242  96.56%
+   4 Kirchoff, Dennis   A56480   B   Limited     Minor N   N   N   N              453.6391  91.38%
+   5 Leith, George      A7755    A   Open        Major N   N   N   N Super Senior 436.5065  87.93%
+   6 Engel, Tom         Pen      U   Limited     Major N   N   N   N              435.6986  87.77%
+   7 Marx, Dick         A19646   B   Open        Major N   N   N   N Super Senior 429.8152  86.59%
+   8 Howard, Thomas     L3232    U   Production  Minor N   N   N   N              420.9964  84.81%
+   9 Thorne, Rob        A49739   B   Limited     Major N   N   N   N              410.0498  82.60%
+  10 Becker, Bill       A65882   B   Single Stack  Major N   N   N   N              375.1948  75.58%
+  11 Betsworth, Jacob   TY71082  U   Production  Minor N   N   N   N              370.5874  74.65%
+  12 Smith, Kevin       TY63793  C   Limited     Major N   N   N   N              365.5966  73.65%
+  13 Licari, Ron        TY61703  B   Limited     Major N   N   N   N              361.6997  72.86%
+  14 Blair, Kirk        TY40405  B   Limited     Major N   N   N   N              353.5508  71.22%
+  15 Mende, Eric        A29994   C   Production  Minor N   N   N   N              332.6275  67.01%
+  16 Stanton, Jerry     A65900   U   Limited     Major N   N   N   N              325.4302  65.56%
+  17 Nanfito, Brett     A60635   C   Production  Minor N   N   N   N              323.2324  65.11%
+  18 Ludwig, Joel       A68981   C   Limited     Major N   N   N   N              317.7208  64.00%
+  19 Renolds, Jared     A64880   C   Production  Minor N   N   N   N              314.9823  63.45%
+  20 Freeouf, Luke      A68308   U   Limited     Major N   N   N   N              313.8310  63.22%
+  21 Knight, Shawn      L3077    A   Production  Minor N   N   N   N              312.8968  63.03%
+  22 Chi, Dennis        Pen      U   Single Stack  Major N   N   N   N              310.2429  62.50%
+  23 Suiter, Bill       A56522   C   Production  Minor N   N   N   N              304.6649  61.37%
+  24 Lierman, Matt      A69809   U   Production  Minor N   N   N   N              298.7274  60.18%
+  25 Huber, Ramon       A47135   C   Limited 10  Major N   N   N   N              297.7727  59.99%
+  26 Simandl, Rich      TY44974  C   Limited 10  Major N   N   N   N              295.5157  59.53%
+  27 Mitchell, Travis   A52576   C   Production  Minor N   N   N   N              285.3634  57.49%
+  28 Hanna, Bill        FY54788  C   Limited     Major N   N   N   N Super Senior 282.5683  56.92%
+  29 McSheehy, Sean     A44616   C   Open        Major N   N   N   N              278.6491  56.13%
+  30 Potthoff, Roger    A70614   U   Production  Minor N   N   N   N              274.7957  55.36%
+  31 Victor, John       TY7587   B   Production  Minor N   N   N   N              265.3437  53.45%
+  32 Davis, Doug        TY11475  C   Limited 10  Major N   N   N   N Super Senior 259.9525  52.37%
+  33 Modrcin, Mike      Pen      U   Production  Minor N   N   N   N              259.7204  52.32%
+  34 Smith, Bryan       A71115   U   Production  Minor N   N   N   N              255.1333  51.40%
+  35 Begley, Terry      TY48539  U   Production  Minor N   N   N   N              241.8378  48.72%
+  36 Attanasio, Ron     A71484   U   Production  Minor N   N   N   N              237.6782  47.88%
+  37 Mrasek, Ardi       A63276   U   Production  Minor Y   N   N   N              235.5908  47.46%
+  38 Young, Ken         TY50574  C   Limited     Major N   N   N   N              218.0715  43.93%
+  39 Gewecke, Sean      A68385   D   Production  Minor N   N   N   N              217.8199  43.88%
+  40 Aldrich, Tracy     Pen      U   Limited     Major N   N   N   N              170.5630  34.36%
+  41 Howard, Julie      TY67061  D   Production  Minor Y   N   N   N              165.5425  33.35%
+  42 Young, Bill        Pen      U   Limited     Major N   N   N   N              164.1832  33.07%
+  43 Mitchell, Bob      A54752   D   Limited 10  Major N   N   N   N Senior       162.9806  32.83%
+  44 Edney, John        Pen      U   Limited     Major N   N   N   N              161.0648  32.45%
+  45 Baird, Graham      A71736   U   Single Stack  Major N   N   N   N              151.8434  30.59%
+  46 Engel, Sandy       A66566   D   Limited     Major Y   N   N   N              139.4941  28.10%
+  47 Edney, Chris       Pen      U   Single Stack  Major N   N   N   N              132.7689  26.75%
+  48 Nielsen, Steve              U   Limited     Major N   N   N   N              130.9080  26.37%
+  49 Vantluka, Eugene   TY13544  D   Revolver    Major N   N   N   N              119.7709  24.13%
+  50 Hollins, Greg      Pen      U   Production  Minor N   N   N   N              112.8789  22.74%
+  51 Schultze, Jim      Pen      U   Production  Minor N   N   N   N              105.1170  21.18%
+  52 Maneski, Meghan             U   Production  Minor Y   N   N   N              102.5276  20.65%
+  53 Rollins, Scott     Pen      U   Limited     Minor N   N   N   N               81.8100  16.48%
+  54 Gewecke, Amy                U   Production  Minor Y   N   N   N               73.4177  14.79%
+  55 McCullough, James  A62035   B   Limited     Major N   N   N   N               36.5306   7.36%
+ 

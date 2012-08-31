@@ -9,8 +9,7 @@
     <script src="http://code.highcharts.com/highcharts.js"></script>
     <script src="http://code.highcharts.com/modules/exporting.js"></script>
 
-<div id="container" style="min-width: 400px; height: 400px; margin: 0 auto"></div>
-
+<div id="container" style="position:fixed; top:140px; right:0px; width: 800px; height: 400px;"></div>
 <script>
 $(function () {
     var chart;
@@ -77,11 +76,13 @@ $(function () {
 </script>
 
 
+
+<h1>Pistol Matches</h1>
+<h2>Overall Results 2006 - 2012</h2>
+
 [% USE DBI; 
    DBI.connect("dbi:SQLite:dbname=enps.sqlite","","");
 %]
-
-
 <table>
 [% FOREACH user = DBI.query('select lname, fname, sum(points) points from results group by lname, fname order by sum(points) desc'); %]
    <tr>
@@ -91,6 +92,8 @@ $(function () {
    </tr>
 [% END %]
 </table>
+
+
 
 
 

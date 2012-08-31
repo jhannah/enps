@@ -1,4 +1,5 @@
-enps
+Eastern Nebraska Practical Shooters
 ====
 
-Eastern Nebraska Practical Shooters
+http://EasternNebraskaPracticalShooters.com
+

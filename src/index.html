@@ -17,32 +17,63 @@ $(function () {
         chart_options = { 
             chart: {
                 renderTo: 'container',
-                type: 'line',
-                marginRight: 0,
-                marginBottom: 80
+                zoomType: 'xy'
             },
-            title: { 
+            title: {
                 text: 'Click someone on the left'
             },
-            xAxis: {
-                categories: []
-            },
-            yAxis: {
-                title: {
-                    text: 'Score'
+            xAxis: [{
+            }],
+            yAxis: [{ // Primary yAxis
+                labels: {
+                    formatter: function() {
+                        return this.value + '%';
+                    },
+                    style: {
+                        color: '#AA4643'
+                    }
                 },
-                plotLines: [{
-                    value: 0,
-                    width: 1,
-                    color: '#808080'
-                }]
-            },
+                title: {
+                    text: 'Percentage',
+                    style: {
+                        color: '#AA4643'
+                    }
+                },
+                opposite: true
+    
+            }, { // Secondary yAxis
+                gridLineWidth: 0,
+                title: {
+                    text: 'Points',
+                    style: {
+                        color: '#4572A7'
+                    }
+                },
+                labels: {
+                    formatter: function() {
+                        return this.value;
+                    },
+                    style: {
+                        color: '#4572A7'
+                    }
+                }
+            }],
             tooltip: {
                 formatter: function() {
-                    return this.x + ': ' + this.y;
+                    return this.x + ': '+  this.y;
                 }
             },
             series: [{
+                name: 'Points',
+                color: '#4572A7',
+                type: 'column',
+                yAxis: 1,
+                data: [ ]
+            }, {
+                name: 'Percentage',
+                color: '#AA4643',
+                type: 'spline',
+                data: [ ]
             }]
         };
         chart = new Highcharts.Chart(chart_options);
@@ -72,20 +103,21 @@ $(function () {
       <td>[% user.points %]</td>
       <!-- 
       [% events = [];
-         nums = [];
-         FOREACH result = DBI.query("select year, month, points from results where lname = '" _ user.lname _ "' and fname = '" _ user.fname _ "'order by year, month");
+         points = [];
+         perc = [];
+         FOREACH result = DBI.query("select year, month, points, stgperc from results where lname = '" _ user.lname _ "' and fname = '" _ user.fname _ "'order by year, month");
             events.push(result.year _ result.month);
-            nums.push(result.points);
+            points.push(result.points);
+            perc.push(result.stgperc);
          END;
          nums.join("|");
       %]
       -->
       <script>
          $('#[% id %]').click(function() {
-            chart_options.xAxis.categories = [ [% events.join(", ") %] ];
-            chart_options.series = [{
-                data: [ [% nums.join(", ") %] ]
-            }]
+            chart_options.xAxis[0].categories = [ [% events.join(", ") %] ];
+            chart_options.series[0].data = [ [% points.join(", ") %] ];
+            chart_options.series[1].data = [ [% perc.join(", ") %] ];
             chart_options.title.text = '[% user.lname %], [% user.fname %]';
             chart = new Highcharts.Chart(chart_options);
          });

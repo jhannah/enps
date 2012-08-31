@@ -1,5 +1,7 @@
 CREATE TABLE results (
    id INTEGER PRIMARY KEY AUTOINCREMENT,
+   event text,
+   stat_type text,
    year text,
    month text,
    place num, 

@@ -4,7 +4,7 @@ use 5.10.0;
 use DBI;
 
 my $dbh = DBI->connect("dbi:SQLite:dbname=enps.sqlite","","");
-my $strsql = "insert into results (year, month, place, lname, fname, uspsa, class, division, pf, lady, mil, law, for, age, points, stgperc) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
+my $strsql = "insert into results (event, stat_type, year, month, place, lname, fname, uspsa, class, division, pf, lady, mil, law, for, age, points, stgperc) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
 my $sth = $dbh->prepare($strsql);
 
 
@@ -23,7 +23,11 @@ foreach my $f (@files) {
       last unless (/^\s+\d+\s\w/);       # Data has ended. Stop reading this file.
       # say "   $_";
       my @l = split /\s+/;
+
       shift @l unless ($l[0]);   # discard first column if empty
+
+      # Remove % from stgperc
+      $l[-1] =~ s/\%//;
 
       # "Super Senior" splits on spaces. Ooops. Fix it.
       if ($l[-4] eq "Super" && $l[-3] eq "Senior") {
@@ -73,7 +77,7 @@ foreach my $f (@files) {
       $l[1] =~ s/,$//;
 
       # say join "|", @l;
-      $sth->execute($y, $m, @l);
+      $sth->execute('pistol', 'overall', $y, $m, @l);
       # my ($place, $lname, $fname, $uspsa, $class, $division, $pf, $lady, $for, $age, $points, $stgperc) = @l;
    }
 }

@@ -1,7 +1,15 @@
+[% USE DBI; 
+   DBI.connect("dbi:SQLite:dbname=enps.sqlite","","");
+%]
 
-boop!
 
-[% IF 1 %]
-    sha-boop!
+<table>
+[% FOREACH user = DBI.query('select lname, fname, sum(points) points from results group by lname, fname order by sum(points) desc'); %]
+   <tr>
+      <td>[% user.lname %]</td>
+      <td>[% user.fname %]</td>
+      <td>[% user.points %]</td>
+   </tr>
 [% END %]
+</table>
 

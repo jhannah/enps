@@ -14,12 +14,18 @@
 $(function () {
     var chart;
     $(document).ready(function() {
-        chart = new Highcharts.Chart({
+        chart_options = { 
             chart: {
                 renderTo: 'container',
                 type: 'line',
                 marginRight: 0,
                 marginBottom: 80
+            },
+            title: { 
+                text: 'Click someone on the left'
+            },
+            xAxis: {
+                categories: []
             },
             yAxis: {
                 title: {
@@ -33,15 +39,14 @@ $(function () {
             },
             tooltip: {
                 formatter: function() {
-                        return '<b>'+ this.series.name +'</b><br/>'+
-                        this.x +': '+ this.y +'°C';
+                    return this.x + ': ' + this.y;
                 }
             },
             series: [{
-                data: [7.0, 6.9, 9.5, 14.5, 18.2, 21.5, 25.2, 26.5, 23.3, 18.3, 13.9, 9.6]
             }]
-        });
-    });
+        };
+        chart = new Highcharts.Chart(chart_options);
+   });
 });
 </script>
 
@@ -66,16 +71,23 @@ $(function () {
       <td>[% user.fname %]</td>
       <td>[% user.points %]</td>
       <!-- 
-      [% nums = [];
-         FOREACH result = DBI.query("select points from results where lname = '" _ user.lname _ "' and fname = '" _ user.fname _ "'order by year, month");
+      [% events = [];
+         nums = [];
+         FOREACH result = DBI.query("select year, month, points from results where lname = '" _ user.lname _ "' and fname = '" _ user.fname _ "'order by year, month");
+            events.push(result.year _ result.month);
             nums.push(result.points);
          END;
          nums.join("|");
       %]
       -->
       <script>
-         $('#[% id %]').mouseover(function() {
-            alert('[% id %]');
+         $('#[% id %]').click(function() {
+            chart_options.xAxis.categories = [ [% events.join(", ") %] ];
+            chart_options.series = [{
+                data: [ [% nums.join(", ") %] ]
+            }]
+            chart_options.title.text = '[% user.lname %], [% user.fname %]';
+            chart = new Highcharts.Chart(chart_options);
          });
       </script>
    </tr>

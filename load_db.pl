@@ -1,12 +1,10 @@
 use strict;
 use 5.10.0;
-
 use DBI;
 
 my $dbh = DBI->connect("dbi:SQLite:dbname=enps.sqlite","","");
 my $strsql = "insert into results (event, stat_type, year, month, place, lname, fname, uspsa, class, division, pf, lady, mil, law, for, age, points, stgperc) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
 my $sth = $dbh->prepare($strsql);
-
 
 my @files = `find data -name "*.txt"`;
 foreach my $f (@files) {
@@ -52,7 +50,7 @@ foreach my $f (@files) {
       }
     
       # "Single Stack" gets split
-      if ($l[-10] eq "Single" && $l[-9] eq "Stack") {
+      if ($l[-10] eq "Single" && $l[-9] =~ /^Sta/) {
          $l[-10] = "Single Stack";
          splice @l, -9, 1;
       }

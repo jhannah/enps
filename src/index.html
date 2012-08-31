@@ -60,10 +60,24 @@ $(function () {
       <th>Total Points</th>
    </tr>
 [% FOREACH user = DBI.query('select lname, fname, sum(points) points from results group by lname, fname order by sum(points) desc'); %]
-   <tr>
+   [% id = user.lname _ "_" _ user.fname; %]
+   <tr id="[% id %]">
       <td>[% user.lname %]</td>
       <td>[% user.fname %]</td>
       <td>[% user.points %]</td>
+      <!-- 
+      [% nums = [];
+         FOREACH result = DBI.query("select points from results where lname = '" _ user.lname _ "' and fname = '" _ user.fname _ "'order by year, month");
+            nums.push(result.points);
+         END;
+         nums.join("|");
+      %]
+      -->
+      <script>
+         $('#[% id %]').mouseover(function() {
+            alert('[% id %]');
+         });
+      </script>
    </tr>
 [% END %]
 </table>
